@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds an appointment-reminder sequence (booking, 48h, morning-of) that cuts no-shows (benchmark ~30%, labelled estimate).",
+  "keywords": [
+    "kairos",
+    "no",
+    "reducer",
+    "show",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-no-show-reducer",
+  "repository": "https://github.com/baselam88/kairos-no-show-reducer-plugin",
+  "version": "0.1.0"
+}
